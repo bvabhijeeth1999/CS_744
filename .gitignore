@@ -1,0 +1,8 @@
+*.gz
+*_batch_*
+*.meta
+*.pyc
+*.html
+*batch
+*-*.pyc
+Project/flores200_dataset
